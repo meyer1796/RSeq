@@ -12,6 +12,7 @@ dependencies:
   - r-tidyverse
   - r-plotly
   - r-stringr
+  - r-shiny
   - pip
   - pip:
     - plotly 
@@ -19,3 +20,4 @@ dependencies:
     - matplotlib
     - scikit-learn
     - numpy
+    - scipy
