@@ -16,6 +16,11 @@ dependencies:
   - r-ellipse
   - r-randomForest
   - r-kernlab
+  - r-BioManager
+  - r-GenomicFeatures
+  - r-AnnotationDbi
+  - r-DESeq2
+  - r-magrittr
   - pip
   - pip:
     - plotly 
