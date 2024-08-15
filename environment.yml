@@ -2,7 +2,6 @@ name: base
 channels:
   - conda-forge
   - bioconda
-  - bioconductor
   - defaults
 dependencies:
   - r-base=4.1
@@ -17,7 +16,7 @@ dependencies:
   - r-ellipse
   - r-randomForest
   - r-kernlab
-  - r-deseq2
+  - r-bioconductor-deseq2
   - r-magrittr
   - pip
   - pip:
