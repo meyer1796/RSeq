@@ -13,6 +13,7 @@ dependencies:
   - r-plotly
   - r-stringr
   - r-shiny
+  - r-magrittr
   - pip
   - pip:
     - plotly 
