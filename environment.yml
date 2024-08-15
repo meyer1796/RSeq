@@ -16,6 +16,7 @@ dependencies:
   - r-ellipse
   - r-randomForest
   - r-kernlab
+  - r-deseq2
   - r-magrittr
   - pip
   - pip:
