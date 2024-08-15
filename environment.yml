@@ -2,9 +2,10 @@ name: base
 channels:
   - conda-forge
   - bioconda
+  - bioconductor
   - defaults
 dependencies:
-  - r-base=4.0
+  - r-base=4.1
   - python=3.9
   - r-dplyr
   - r-ggplot2
